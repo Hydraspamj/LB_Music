@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 hina × assistant 」──
+    ──「hina × assistant」──
 </h2>
 
 <p align="center">
